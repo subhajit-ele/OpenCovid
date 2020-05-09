@@ -1,1 +1,1 @@
-"{\"bannerText\":\"Stay Home Stay Save\"}"
+"{\"bannerText\":\"Download \"}"
