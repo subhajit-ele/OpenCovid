@@ -1,0 +1,2 @@
+# OpenCovid
+CovidApp
