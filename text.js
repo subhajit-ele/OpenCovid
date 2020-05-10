@@ -1,5 +1,5 @@
 "{\"bannerText\":\"
 ❤#IndiaFightsCorona
 
-☻#StayAtHome
+ヅ#StayAtHome
 \"}"
