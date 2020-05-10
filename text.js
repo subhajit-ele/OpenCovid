@@ -1,5 +1,3 @@
-"{\"bannerText\":\"
-❤#IndiaFightsCorona
+"{\"bannerText\":\"❤#IndiaFightsCorona
 
-ヅ#StayAtHome
-\"}"
+ヅ#StayAtHome\"}"
