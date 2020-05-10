@@ -1,1 +1,1 @@
-"{\"isUpdate\":fals,\"url\":\"https://www.google.com\"}"
+"{\"isUpdate\":false,\"url\":\"https://www.google.com\"}"
