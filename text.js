@@ -1,1 +1,1 @@
-"{\"bannerText\":\"Download \"}"
+"{\"bannerText\":\"#IndiaFightsCorona\"}"
